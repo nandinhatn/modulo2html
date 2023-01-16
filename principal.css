@@ -1,0 +1,9 @@
+.header {
+   
+    background-image: url(img/slide01.jpg);
+    background-size: 100%;
+    background-position: top;
+    
+    background-repeat: no-repeat;
+    min-height: 250px;
+}

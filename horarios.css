@@ -1,0 +1,32 @@
+.header {
+   
+    background-image: url(img/slide03.jpg);
+    background-size: 100%;
+    background-position: top;
+    background-color: white;
+    
+    background-repeat: no-repeat;
+    min-height: 250px;
+}
+table, th, tr{
+   
+    padding: 10px;
+  
+}
+thead {
+    text-align: center;
+    background-color: rgb(76, 202, 139);
+    border: 0;
+}
+tbody, th{
+    border-bottom: 1px solid gray;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    
+   
+    
+}
+tr:nth-child(even) {background-color: #bae8c3;}
